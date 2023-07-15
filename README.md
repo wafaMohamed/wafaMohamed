@@ -31,3 +31,11 @@
  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wafamohamed&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wafamohamed&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wafamohamed&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=wafamohamed&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+
