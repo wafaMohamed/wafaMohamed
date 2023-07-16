@@ -14,7 +14,7 @@
 
 - 📫 Mail me: wafamohameddd@gmail.com
 - 📱 I'm a Flutter Mobile Application developer. 
-- 🎓 I graduated from Computer Science in Egypt.
+- 🎓 Bachelor in Computer Science.
 - 💬 Ask me anything related to the flutter technology.
 - 👯 I’m looking to collaborate on projects that could help the community.
 
