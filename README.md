@@ -15,7 +15,7 @@
 - 📫 Mail me: wafamohamed13@outlook.com
 - 📱 I'm a Flutter Mobile Application developer. 
 - 🎓 Bachelor in Computer Science.
--  I love sharing my experience and knowledge via [articles](https://medium.com/@wafamohameddd) 📝
+- 📝 I love sharing my experience and knowledge via [articles](https://medium.com/@wafamohameddd) 
 - 💬 Ask me anything related to the flutter technology.
 - 👯 I’m looking to collaborate on projects that could help the community.
 
