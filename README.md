@@ -15,6 +15,7 @@
 - 📫 Mail me: wafamohamed13@outlook.com
 - 📱 I'm a Flutter Mobile Application developer. 
 - 🎓 Bachelor in Computer Science.
+-  I love sharing my experience and knowledge via [articles](https://medium.com/@wafamohameddd) 📝
 - 💬 Ask me anything related to the flutter technology.
 - 👯 I’m looking to collaborate on projects that could help the community.
 
@@ -30,6 +31,15 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> 
  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
+  
+### My Articles
+
+| Title | Type |
+| ------------- | :-------------: |
+| [**How Dart Works Across Platforms**](https://medium.com/@wafamohameddd/how-dart-works-across-platforms-bebd061ee3a6) | 📝 |
+| [**Understanding the Power of “const” and “final” Keywords in Dart**](https://medium.com/@wafamohameddd/understanding-the-power-of-const-and-final-keywords-in-dart-39be6c8d00eb) | 📝 |
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wafamohamed&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
