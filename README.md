@@ -42,6 +42,8 @@
 | [**Flutter Testing: A Comprehensive Guide to Unit, Widget, and Integration Testing**](https://medium.com/@wafamohameddd/flutter-testing-a-comprehensive-guide-to-unit-widget-and-integration-testing-166dfa9eb14a) | 📝 |
 | [**Mocking in Flutter: Testing Data Providers and Web Services for Quotes App**](https://medium.com/@wafamohameddd/mocking-in-flutter-testing-data-providers-and-web-services-for-quotes-app-f36f8602391d) | 📝 |
 | [**Build a Flutter Video Calling App with Zego Cloud Using Cubit**](https://medium.com/@wafamohameddd/build-a-flutter-video-calling-app-with-zego-cloud-using-cubit-aedd2a1e5747) | 📝 |
+| [**Understanding the Lifecycle of a Flutter App: A Comprehensive Guide**](https://medium.com/@wafamohameddd/understanding-the-lifecycle-of-a-flutter-app-a-comprehensive-guide-b58a5a94d776) | 📝 |
+
 
 
 
